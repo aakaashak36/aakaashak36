@@ -27,13 +27,15 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Repositories
 
-| Project | Description | Link |
+| Repository | Description | Link |
 |--------|-------------|------|
-| 🔬 Project One | Short description of what it does | [View Repo](#) |
-| 🐧 Project Two | Short description of what it does | [View Repo](#) |
-| 💊 Project Three | Short description of what it does | [View Repo](#) |
+| js-learn | Learning JavaScript | [View Repo](https://github.com/aakaashak36/js-learn) |
+| python-learn | Learning Python | [View Repo](https://github.com/aakaashak36/python-learn) |
+| r-learn | Learning R | [View Repo](https://github.com/aakaashak36/r-learn) |
+| rust-learn | Learning Rust | [View Repo](https://github.com/aakaashak36/rust-learn) |
+| sql-learn | Learning SQL | [View Repo](https://github.com/aakaashak36/sql-learn) |
 
 <!-- *(Replace the placeholders above with your actual projects and links!)* -->
 
