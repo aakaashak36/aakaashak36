@@ -3,15 +3,15 @@
 - 🩺 Aspiring medical student with a deep passion for programming and technology.
 - 💻 I love tinkering with Linux distros, writing code, and exploring how software works under the hood.  
 - 🌱 Currently learning and building — medicine and programming isnt't so different when you think about it.
-- 📷 Also I'm a photographer.
+- 📷 Also I'm a photographer in my spare time.
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 On the path to medicine with the assistance of technology
-- 💡 Believer that knowing how to code makes you a better thinker, whatever field you're in
-- 🔭 Always exploring something new, whether it's a new distro, a new language, or a new idea
+- 🎓 On the path to medicine with the assistance of technology.
+- 💡 Strong believer that knowing how to code makes you a better thinker, regardless of whatever field you're in.
+- 🔭 Always exploring something new, whether it's a new distro, a new language, or a new idea.
 
 ---
 
@@ -31,11 +31,11 @@
 
 | Repository | Description | Link |
 |--------|-------------|------|
-| js-learn | Learning JavaScript | [View Repo](https://github.com/aakaashak36/js-learn) |
-| python-learn | Learning Python | [View Repo](https://github.com/aakaashak36/python-learn) |
-| r-learn | Learning R | [View Repo](https://github.com/aakaashak36/r-learn) |
-| rust-learn | Learning Rust | [View Repo](https://github.com/aakaashak36/rust-learn) |
-| sql-learn | Learning SQL | [View Repo](https://github.com/aakaashak36/sql-learn) |
+| 📁 js-learn | Learning JavaScript | [View Repo](https://github.com/aakaashak36/js-learn) |
+| 📁 python-learn | Learning Python | [View Repo](https://github.com/aakaashak36/python-learn) |
+| 📁 r-learn | Learning R | [View Repo](https://github.com/aakaashak36/r-learn) |
+| 📁 rust-learn | Learning Rust | [View Repo](https://github.com/aakaashak36/rust-learn) |
+| 📁 sql-learn | Learning SQL | [View Repo](https://github.com/aakaashak36/sql-learn) |
 
 <!-- *(Replace the placeholders above with your actual projects and links!)* -->
 
