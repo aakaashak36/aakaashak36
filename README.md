@@ -52,7 +52,7 @@
 
 ## 📬 Contact & Socials
 
-- 🐙 GitHub: [@AakaashAKrishnan](https://github.com/aakaashak36)
+- 🐙 GitHub: [@aakaashak36](https://github.com/aakaashak36)
 - 📧 Email: aakaash.kris@outlook.com.au
 - 💼 LinkedIn: [your-linkedin](#)
 
