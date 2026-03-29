@@ -1,9 +1,9 @@
 # Hey, I'm Aakaash 👋
 
-🩺 Aspiring medical student with a deep passion for programming and technology.
-💻 I love tinkering with Linux distros, writing code, and exploring how software works under the hood.  
-🌱 Currently learning and building — medicine and programming isnt't so different when you think about it.
-📷 Also I'm a photographer.
+- 🩺 Aspiring medical student with a deep passion for programming and technology.
+- 💻 I love tinkering with Linux distros, writing code, and exploring how software works under the hood.  
+- 🌱 Currently learning and building — medicine and programming isnt't so different when you think about it.
+- 📷 Also I'm a photographer.
 
 ---
 
