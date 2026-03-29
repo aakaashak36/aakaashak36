@@ -39,21 +39,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AakaashAKrishnan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakaashAKrishnan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📬 Contact & Socials
 
 - 🐙 GitHub: [@aakaashak36](https://github.com/aakaashak36)
 - 📧 Email: aakaash.kris@outlook.com.au
-- 💼 LinkedIn: [your-linkedin](#)
+<!-- - 💼 LinkedIn: [your-linkedin](#) -->
 
 ---
 
