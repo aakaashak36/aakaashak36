@@ -1,15 +1,15 @@
-# Hey there, I'm Aakaash 👋
+# Hey, I'm Aakaash 👋
 
-🩺 Aspiring medical student with a deep passion for programming and technology.  
+🩺 Aspiring medical student with a deep passion for programming and technology.
 💻 I love tinkering with Linux distros, writing code, and exploring how software works under the hood.  
-🌱 Currently learning and building — medicine and computers aren't so different when you think about it.
+🌱 Currently learning and building — medicine and programming isnt't so different when you think about it.
+📷 Also I'm a photographer.
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 On the path to medicine, but technology is where my curiosity never sleeps
-- 🐧 Linux enthusiast — I distro-hop more than I probably should
+- 🎓 On the path to medicine with the assistance of technology
 - 💡 Believer that knowing how to code makes you a better thinker, whatever field you're in
 - 🔭 Always exploring something new, whether it's a new distro, a new language, or a new idea
 
@@ -52,11 +52,9 @@
 
 ## 📬 Contact & Socials
 
-- 🐙 GitHub: [@AakaashAKrishnan](https://github.com/AakaashAKrishnan)
-- 📧 Email: `your.email@example.com`
+- 🐙 GitHub: [@AakaashAKrishnan](https://github.com/aakaashak36)
+- 📧 Email: aakaash.kris@outlook.com.au
 - 💼 LinkedIn: [your-linkedin](#)
-
-> *(Fill in your actual contact details above!)*
 
 ---
 
