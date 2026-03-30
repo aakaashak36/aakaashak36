@@ -13,6 +13,8 @@
 - 💡 Strong believer that knowing how to code makes you a better thinker, regardless of whatever field you're in.
 - 🔭 Always exploring something new, whether it's a new distro, a new language, or a new idea.
 
+---
+
 ## 👨‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,7 +24,7 @@
 
 <!-- *(Update this section with the languages you're currently using!)* -->
 
----
+
 
 ## 🛠️ Tools
 
