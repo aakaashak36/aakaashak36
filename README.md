@@ -46,6 +46,7 @@
 | 📁 r-learn | Learning R | [View Repo](https://github.com/aakaashak36/r-learn) |
 | 📁 rust-learn | Learning Rust | [View Repo](https://github.com/aakaashak36/rust-learn) |
 | 📁 sql-learn | Learning SQL | [View Repo](https://github.com/aakaashak36/sql-learn) |
+| 📁 flutter-learn | Learning Flutter | [View Repo](https://github.com/aakaashak36/flutter-learn) |
 
 <!-- *(Replace the placeholders above with your actual projects and links!)* -->
 
