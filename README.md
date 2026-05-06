@@ -56,7 +56,7 @@
 
 - 🐙 GitHub: [@aakaashak36](https://github.com/aakaashak36)
 - 📧 Email: aakaash.kris@outlook.com.au
-<!-- - 💼 LinkedIn: [your-linkedin](#) -->
+- 💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/aakaashak36/)
 
 ---
 
